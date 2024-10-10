@@ -55,7 +55,8 @@
 </p>
 
 <hr>
-<img src="https://komarev.com/ghpvc/?username=yeyeGL&color=blueviolet" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=nuevoNombreDeUsuario&color=blueviolet" alt="Profile views" />
+
 
 
 
