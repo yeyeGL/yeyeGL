@@ -18,8 +18,8 @@
 <hr>
 
 <h2>My Stats</h2>
-<img alt="My stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=yeyeGL&show_icons=true&theme=gruvbox"/>
-<img alt="My top languages" align="left" width="47%" height="198" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeyeGL&layout=compact&theme=gruvbox"/>
+<img alt="My stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=yeyeGL&show_icons=true&theme=gruvbox&v1"/>
+<img alt="My top languages" align="left" width="47%" height="198" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeyeGL&layout=compact&theme=gruvbox&v1"/>
 
 
 
